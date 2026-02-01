@@ -12,7 +12,7 @@ The analysis focuses on answering the following key questions:
 
 # **Key Insights** 
 - Sales ≠ Profit: Some high-revenue products and regions consistently generate low or negative profit.
-- Regional Opportunity: While certain regions lead in sales volume, others outperform in profitability — indicating opportunities for cost or pricing optimisation.
+- Regional Opportunity: While certain regions lead in sales volume, others outperform in profitability which indicates opportunities for cost or pricing optimisation.
 - Category Performance: Technology products drive the highest revenue, followed by Office Supplies and Furniture.
 - Seasonality: Sales peak toward the end of the year, suggesting strong seasonal demand.
 - Discount Trade-off: Discounts increase sales but can significantly erode profit if not strategically managed.
